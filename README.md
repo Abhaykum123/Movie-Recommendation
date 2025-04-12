@@ -53,7 +53,6 @@ Copy code
 ├── movie_dict.pkl
 ├──similarity.pkl README.md
 └── README.md
-
 -----------------------------------------------------------------------------------------------------------------------
 
 🚀 How to Run
@@ -61,7 +60,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone [https://github.com/yourusername/movie-recommendation-system.git](https://github.com/Abhaykum123/Movie-Recommendation/blob/main/Movie_Recommender_System.ipynb)
 cd movie-recommendation-system
 Install dependencies
 
