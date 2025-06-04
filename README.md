@@ -45,6 +45,7 @@ Pickle (for model serialization)
 📑 Project Structure
 kotlin
 Copy code
+```
 ├── data/
 │   ├── tmdb_5000_movies.csv
 │   └── tmdb_5000_credits.csv
@@ -53,7 +54,7 @@ Copy code
 ├── movie_dict.pkl
 ├──similarity.pkl README.md
 └── README.md
-
+```
 -----------------------------------------------------------------------------------------------------------------------
 
 🚀 How to Run
